@@ -1,0 +1,19 @@
+F:\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe.config
+F:\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe
+F:\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.pdb
+F:\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.csproj.CoreCompileInputs.cache
+F:\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.exe
+F:\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.pdb
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe.config
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.pdb
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.csprojAssemblyReference.cache
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.csproj.CoreCompileInputs.cache
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.exe
+C:\Users\C#\Downloads\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.pdb
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe.config
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.exe
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\bin\Debug\Clothing_Stores.pdb
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.csprojAssemblyReference.cache
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.exe
+F:\All Project\2nd M 1251678-Benojir Khanom\Clothing_Stores_obj_app\Clothing_Stores\obj\Debug\Clothing_Stores.pdb
